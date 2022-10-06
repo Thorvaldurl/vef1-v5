@@ -356,7 +356,7 @@ footer {
       }
     
     .info .content{
-        grid-column: 2 / span 4;
+        grid-column: 1 / span 5;
       }
       .info .image {
         grid-column: 7/ span 6;
@@ -365,12 +365,12 @@ footer {
     
       
       .info-right .content{
-      grid-column: 8 / span 4;
+      grid-column: 7 / span 6;
        
      }
    
      .info-right .image{
-       grid-column: 1 / span 6;
+       grid-column: 1 / span 5;
        order: -1;
      }
   }
